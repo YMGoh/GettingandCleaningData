@@ -28,14 +28,14 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
 
-#The following instructions were created by YMGoh to facilitate peer review
+##The following instructions were created by YMGoh to facilitate peer review
 
 ##Steps to get generate tidydataset and Code Book
 
-Open the R script run_analysis.r using a text editor.
-Point the the setwd function call to the working directory where these the R script file is located.
-Run the R script run_analysis.r. 
-Outputs produced are as follows
-Tidy dataset file DatasetHAR.txt (tab-delimited text)
-Codebook file codebook.md (Markdown)
+1.Open the R script run_analysis.r using a text editor.
+2.Point the the setwd function call to the working directory where these the R script file is located.
+3.Run the R script run_analysis.r. 
+4.Outputs produced are as follows
+4.1. Tidy dataset file DatasetHAR.txt (tab-delimited text)
+4.2. Codebook file codebook.md (Markdown)
 
