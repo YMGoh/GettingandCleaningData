@@ -1,6 +1,5 @@
-# GettingandCleaningData
-Peer Evaluation Project
-Instructions
+# Getting and Cleaning Data
+Peer Evaluation Project Instructions
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 Review criterialess 
@@ -28,3 +27,15 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
+
+#The following instructions were created by YMGoh to facilitate peer review
+
+##Steps to get generate tidydataset and Code Book
+
+Open the R script run_analysis.r using a text editor.
+Point the the setwd function call to the working directory where these the R script file is located.
+Run the R script run_analysis.r. 
+Outputs produced are as follows
+Tidy dataset file DatasetHAR.txt (tab-delimited text)
+Codebook file codebook.md (Markdown)
+
