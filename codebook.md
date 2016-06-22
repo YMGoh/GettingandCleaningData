@@ -101,4 +101,6 @@ The resulting data frame has 81 columns:
 </pre>
 
 ## Computed result
-The result, produced in the frame "result.frame" and written to the file "DatasetHAR.txt", containing all uniquely occuring combination of subject id and activity (columns 1 and 2), together with the mean of each other measure for that group (columns 3 through 81).
+The result, produced in the frame "result.frame" and written to the file "DatasetHAR.txt" (tab delimited file), containing all uniquely occuring combination of subject id and activity (columns 1 and 2), together with the mean of each other measure for that group (columns 3 through 81).
+
+## p/s Note that due to the sheer number of columns (81), mean data would require 2 lines of text to be shown completedly for all 30 subjects
