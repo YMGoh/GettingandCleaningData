@@ -30,12 +30,8 @@ Good luck!
 
 ##The following instructions were created by YMGoh to facilitate peer review
 
-##Steps to get generate tidydataset and Code Book
-
-1.Open the R script run_analysis.r using a text editor.
-2.Point the the setwd function call to the working directory where these the R script file is located.
-3.Run the R script run_analysis.r. 
-4.Outputs produced are as follows
-4.1. Tidy dataset file DatasetHAR.txt (tab-delimited text)
-4.2. Codebook file codebook.md (Markdown)
+1.Download and unzip the required dataset in the working directory of R.
+2.Run the R script run_analysis.r. 
+3.This will eventually produce a tidy dataset file named "DatasetHAR.txt"
+4.Description of all the data features are in codebook.md
 
